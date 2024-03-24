@@ -1,5 +1,8 @@
 # Phoebus
+[Nuget Package](https://www.nuget.org/packages/Phoebus/)
+
 A simple string validation library that avoids using regex.
+
 
 ## Example usage
 ```cs
