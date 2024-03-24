@@ -1,6 +1,9 @@
 
 namespace Phoebus
-{    
+{
+    /// <summary>
+    /// A static helper class with some useful character sets predefined
+    /// </summary>
     public static class PhoebusCharSets
     {
         public const string LowerCase = "abcdefghijklmnopqrstuvwxyz";
@@ -12,4 +15,4 @@ namespace Phoebus
     }
 }
 
-    
+
